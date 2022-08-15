@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @yabbyhome
-
-I’m interested in finding dark matter
+Hi, I’m interested in finding dark matter. Apparently, I need computers for that, so here I am...
 
